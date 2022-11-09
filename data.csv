@@ -1,0 +1,11 @@
+Name,region,ID,Type,TagKey,TagValue
+DK3,eu-central-1,i-085dc426d72452,Instance,Purpose,Development
+DK3,eu-central-1,i-085dc426d72452,Instance,Environment,Development
+DK3,eu-central-1,i-085dc426d72452,Instance,Client,AU Aarhus
+DK3,eu-central-1,i-085dc426d72452,Instance,Name,DK3
+DK3,eu-central-1,i-085dc426d72452,Instance,Domain,ldk3com
+HvA1,eu-central-1,i-0382661882236,Instance,Environment,Live
+HvA1,eu-central-1,i-0382661882236,Instance,Domain,hva1com
+HvA1,eu-central-1,i-0382661882236,Instance,Purpose,Live
+HvA1,eu-central-1,i-0382661882236,Instance,Client,HvAaa
+HvA1,eu-central-1,i-0382661882236,Instance,Name,HvA1

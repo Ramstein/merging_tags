@@ -1,0 +1,6 @@
+Name,region,ID,Type,TagKey,TagValue
+HvA1,eu-central-1,i-0382661882236,Instance,Environment,Live
+HvA1,eu-central-1,i-0382661882236,Instance,Domain,hva1com
+HvA1,eu-central-1,i-0382661882236,Instance,Purpose,Live
+HvA1,eu-central-1,i-0382661882236,Instance,Client,HvAaa
+HvA1,eu-central-1,i-0382661882236,Instance,Name,HvA1
