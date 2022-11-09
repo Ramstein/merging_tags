@@ -1,0 +1,7 @@
+Name,region,ID,Type,TagKey,TagValue,TagKey1,TagValue1,TagKey2,TagValue2,TagKey3,TagValue3,TagKey4,TagValue4
+DK3,eu-central-1,i-085dc426d72452,Instance,Purpose,Development,Environment,Development,Client,AU Aarhus,Name,DK3,Domain,ldk3com
+HvA1,eu-central-1,i-0382661882236,Instance,Environment,Live,Domain,hva1com,Purpose,Live,Client,HvAaa,Name,HvA1
+DK3,eu-central-1,i-085dc426d72452,Instance,Purpose,Development,Environment,Development,Client,AU Aarhus,Name,DK3,Domain,ldk3com
+HvA1,eu-central-1,i-0382661882236,Instance,Environment,Live,Domain,hva1com,Purpose,Live,Client,HvAaa,Name,HvA1
+DK3,eu-central-1,i-085dc426d72452,Instance,Purpose,Development,Environment,Development,Client,AU Aarhus,Name,DK3,Domain,ldk3com
+HvA1,eu-central-1,i-0382661882236,Instance,Environment,Live,Domain,hva1com,Purpose,Live,Client,HvAaa,Name,HvA1
